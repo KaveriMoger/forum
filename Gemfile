@@ -9,11 +9,13 @@ end
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '~> 5.1.6'
 # Use sqlite3 as the database for Active Record
-# gem 'sqlite3'
+gem 'sqlite3'
 # gem 'mongoid', '~> 4', github: 'mongoid/mongoid'
 # gem 'bson_ext'
 
 gem 'mongoid', '~> 6.0.0'
+gem "bson_ext", "~> 1.5"
+
 
 # Use Puma as the app server
 gem 'puma', '~> 3.7'
