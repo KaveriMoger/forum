@@ -13,7 +13,7 @@ gem 'rails', '~> 5.1.6'
 # gem 'mongoid', '~> 4', github: 'mongoid/mongoid'
 # gem 'bson_ext'
 
-gem 'mongoid', '~> 4.0.0'
+gem 'mongoid', '~> 6.0.0'
 
 # Use Puma as the app server
 gem 'puma', '~> 3.7'
